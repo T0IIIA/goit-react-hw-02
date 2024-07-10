@@ -1,8 +1,8 @@
 import s from './App.module.css'
 import { useEffect, useState } from 'react'
-import Description from './Components/Description/Description'
-import Feedback from './Components/Feedback/Feedback'
-import Options from './Components/Options/Options'
+import Description from './components/Description/Description'
+import Feedback from './components/Feedback/Feedback'
+import Options from './components/Options/Options'
 
 function App() {
   const [feedback, setFeedback] = useState(() => {
