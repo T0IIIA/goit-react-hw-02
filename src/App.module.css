@@ -1,0 +1,6 @@
+.container {
+  max-height: 1024px;
+  display: flex;
+  margin: 15px;
+  flex-direction: column;
+}
